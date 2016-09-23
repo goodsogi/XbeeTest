@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/Users/bagjeong-gyu/AndroidStudioProjects/XbeeTest/XBeeLib/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/bagjeong-gyu/AndroidStudioProjects/XbeeTest/XBeeLib/src/androidTest/assets"/><source path="/Users/bagjeong-gyu/AndroidStudioProjects/XbeeTest/XBeeLib/build/generated/assets/shaders/androidTest/debug"/></dataSet></merger>
